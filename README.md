@@ -1,2 +1,2 @@
 # Dash-Notes
-Share some examples of using Dash Components
+Share some examples of using Plotly Dash
