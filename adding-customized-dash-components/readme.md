@@ -2,6 +2,11 @@
 
 Source: [Webinar: Converting React components to Dash components - YouTube](https://www.youtube.com/watch?v=wifoPPRgG_I)[Webinar: Converting React components to Dash components - YouTube](https://www.youtube.com/watch?v=wifoPPRgG_I)
 
+
+
+Others notes:
+
+- Using [`webpack-bundle-analyzer`](webpack-bundle-analyzer.md) plugin
 1. First, you should install the required packages
 
 ```
