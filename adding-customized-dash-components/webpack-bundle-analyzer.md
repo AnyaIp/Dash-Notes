@@ -28,8 +28,8 @@
    ```json
    {
     "scripts": {
-       "generateAnalyzFile": "webpack --profile --json > stats.json", // 生成分析文件
-       "analyz": "webpack-bundle-analyzer --port 8888 ./dist/stats.json" // 启动展示打包报告的http服务器
+       "generateAnalyzFile": "webpack --profile --json > stats.json",
+       "analyz": "webpack-bundle-analyzer --port 8888 ./dist/stats.json"
      }
    }
    ```
